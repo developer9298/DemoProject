@@ -1,9 +1,7 @@
 import 'package:chewie/chewie.dart';
 import 'package:flutter/material.dart';
 import 'package:flutterdemo/common_widget/common_text.dart';
-
 import 'package:video_player/video_player.dart';
-
 import 'like_icon.dart';
 
 class ContentScreen extends StatefulWidget {
