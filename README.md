@@ -8,6 +8,4 @@ profile screen
 
 ![WhatsApp Image 2023-04-20 at 9 22 03 AM](https://user-images.githubusercontent.com/129876292/233428511-35f3b9c8-75a8-4380-9e54-5696d6594755.jpeg)
 ![WhatsApp Image 2023-04-20 at 9 22 02 AM](https://user-images.githubusercontent.com/129876292/233429166-a4705c70-25f8-4c5a-9246-26d20dc62e5d.jpeg)
-![WhatsApp Image 2023-04-20 at 9 22 04 AM](![Uploading WhatsApp Image 2023-04-20 at 9.22.02 AM.jpeg…]()
-https://user-images.githubusercontent.com/129876292/233428589-3955c580-c065-4b57-bf6a-3c62dc842861.jpeg)
  login with firebase (under process)
